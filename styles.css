@@ -7,9 +7,6 @@ body {
 	background: #4d88ff;
 	padding: 70px;
 	}
-.class {
-	text-decoration: underline;
-}
 h1 {
 	text-decoration: underline #4d88ff;
 	}
@@ -51,6 +48,10 @@ section div{
 	padding: 0px;
 	border: none;
 }
-#launchcode {
-	text-decoration: none;
+section.zoo {
+		border: solid 3px;
+	}
+#intro {
+	border: solid 3px;
+	border-radius: 10px
 }
